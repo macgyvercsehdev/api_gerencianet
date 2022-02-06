@@ -1,0 +1,10 @@
+certifi==2021.10.8
+charset-normalizer==2.0.11
+idna==3.3
+Pillow==9.0.1
+pyglet==1.5.21
+PyQRCode==1.2.1
+python-dotenv==0.19.2
+redis==3.5.3
+requests==2.27.1
+urllib3==1.26.8
